@@ -113,10 +113,10 @@ menu:
       Configuration: /configuration.html || fa fa-wrench
       Upgrade: /upgrade.html || fa fa-history
     Troubleshooting: /troubleshooting.html || fa fa-life-ring
-  Perspective:
-    default: /perspective/ || fa fa-globe-americas
-  Expertise:
-    default: /expertise/ || fa fa-graduation-cap
+  # Perspective:
+  #   default: /perspective/ || fa fa-globe-americas
+  # Expertise:
+  #   default: /expertise/ || fa fa-graduation-cap
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
