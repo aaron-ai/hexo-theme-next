@@ -103,16 +103,16 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
-  Docs:
-    default: /docs/ || fa fa-book
+  # Docs:
+  #   default: /docs/ || fa fa-book
 
-    Getting Started:
-      default: /getting-started/ || fa fa-flag
-      Installation: /installation.html || fa fa-download
-      Deployment: /deployment.html || fa fa-upload
-      Configuration: /configuration.html || fa fa-wrench
-      Upgrade: /upgrade.html || fa fa-history
-    Troubleshooting: /troubleshooting.html || fa fa-life-ring
+  #   Getting Started:
+  #     default: /getting-started/ || fa fa-flag
+  #     Installation: /installation.html || fa fa-download
+  #     Deployment: /deployment.html || fa fa-upload
+  #     Configuration: /configuration.html || fa fa-wrench
+  #     Upgrade: /upgrade.html || fa fa-history
+  #   Troubleshooting: /troubleshooting.html || fa fa-life-ring
   # Perspective:
   #   default: /perspective/ || fa fa-globe-americas
   # Expertise:
